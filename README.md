@@ -1,12 +1,3 @@
-<div align="center" id="top"> 
-  <img src="./src/svg/logo.svg" alt="Movies DB" width='80px'/>
-
-&#xa0;
-
-<h1 align="center">Movies Db React</h1>
-
-<br>
-
 ## :dart: About
 
 This project built with React TypeScript and Bootstrap.
