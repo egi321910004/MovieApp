@@ -14,7 +14,7 @@ function TabNavbar() {
               <Nav.Link as={Link} to={"/"}>
                 Home
               </Nav.Link>
-              <Nav.Link as={Link} to={"/"}>
+              <Nav.Link as={Link} to={"https://github.com/egi321910004"}>
                 Github
               </Nav.Link>
             </Nav>
